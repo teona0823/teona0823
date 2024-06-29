@@ -1,4 +1,4 @@
-# 👦 Bomin Moon
+# 🧒 Bomin Moon
 👋 Hi, there.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teona0823&show_icons=true&theme=tokyonight)
