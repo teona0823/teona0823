@@ -1,4 +1,4 @@
-# 🧒 Bomin Moon
+# 🧑‍💻 Bomin Moon
 👋 Hi, there.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teona0823&show_icons=true&theme=tokyonight)
@@ -10,8 +10,9 @@
 - Chung-Ang Univ. (Seoul, South Korea)
 - School of Computer Science & Engineering
 ## 👀 Interests
-- Mathematics in Computer Sciences
+- Mathematics in Computer Science
 - Computer Graphics
+- Adobe tools (Photoshop, Illustrator, After Effects, etc.)
 - Game Programming (Unity Engine, Unreal Engine)
 ## 🌱 Learning
 - Python Programming (2023 Spring)
@@ -21,7 +22,7 @@
 - Java Programming (2024 Spring)
 ## ✍️ Studying
 - Baekjoon Online Judge (Algorithms)
-- Profile: <https://solved.ac/profile/teona0823>
+- Profile: <https://solved.ac/en/profile/teona0823>
 ## 🎮 Gaming
 - Steam Profile: <https://steamcommunity.com/profiles/76561199520778114/>
 - Overwatch 2: <https://overwatch.blizzard.com/en-us/career/798d78066e8510751d7bb120c902af0849%7Cffd6ba148b5314949cdd83e6f1f4efb1/>
