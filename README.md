@@ -20,7 +20,7 @@
 - Logic Circuits (2023 Fall)
 - Data Structure (2024 Spring)
 - Java Programming (2024 Spring)
-## ✍️ Studying
+## 📚 Studying
 - Baekjoon Online Judge (Algorithms)
 - Profile: <https://solved.ac/en/profile/teona0823>
 ## 🎮 Gaming
