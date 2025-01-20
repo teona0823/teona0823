@@ -25,6 +25,5 @@
 - Profile: <https://solved.ac/en/profile/teona0823>
 ## 🎮 Gaming
 - Steam Profile: <https://steamcommunity.com/profiles/76561199520778114/>
-- Overwatch 2: <https://overwatch.blizzard.com/en-us/career/798d78066e8510751d7bb120c902af0849%7Cffd6ba148b5314949cdd83e6f1f4efb1/>
 ## 📫 Contact
 - E-mail: teona0823@naver.com
