@@ -6,24 +6,3 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=teona0823)](https://solved.ac/teona0823)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=teona0823&theme=dark)
-## 🎓 Education
-- Chung-Ang Univ. (Seoul, South Korea)
-- School of Computer Science & Engineering
-## 👀 Interests
-- Mathematics in Computer Science
-- Computer Graphics
-- Adobe tools (Photoshop, Illustrator, After Effects, etc.)
-- Game Programming (Unity Engine, Unreal Engine)
-## 🌱 Learning
-- Python Programming (2023 Spring)
-- C Programming (2023 Spring, Fall)
-- Logic Circuits (2023 Fall)
-- Data Structure (2024 Spring)
-- Java Programming (2024 Spring)
-## 📚 Studying
-- Baekjoon Online Judge (Algorithms)
-- Profile: <https://solved.ac/en/profile/teona0823>
-## 🎮 Gaming
-- Steam Profile: <https://steamcommunity.com/profiles/76561199520778114/>
-## 📫 Contact
-- E-mail: teona0823@naver.com
